@@ -7,14 +7,28 @@
   </url><url>
     <loc>https://example.org/_about/</loc>
   </url><url>
+    <loc>https://example.org/_autism/</loc>
+  </url><url>
+    <loc>https://example.org/_accessibilitystrategy/</loc>
+  </url><url>
     <loc>https://example.org/_accessibilityaudit/</loc>
+  </url><url>
+    <loc>https://example.org/_accessibilitystatement/</loc>
+  </url><url>
+    <loc>https://example.org/_history/</loc>
   </url><url>
     <loc>https://example.org/_qualityengineering/</loc>
   </url><url>
-    <loc>https://example.org/_thissite/</loc>
+    <loc>https://example.org/_services/</loc>
+  </url><url>
+    <loc>https://example.org/_teststrategy/</loc>
   </url><url>
     <loc>https://example.org/blog/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/_thissite/</loc>
+  </url><url>
+    <loc>https://example.org/_wcagprinciples/</loc>
   </url><url>
     <loc>https://example.org/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -63,5 +77,7 @@
   </url><url>
     <loc>https://example.org/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/_choices/</loc>
   </url>
 </urlset>
