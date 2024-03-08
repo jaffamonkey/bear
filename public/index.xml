@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>quality engineering in the pipeline</title>
     <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on quality engineering in the pipeline</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
@@ -538,6 +538,243 @@ Email <a href="mailto:paullittlebury@gmail.com">paullittlebury@gmail.com</a> and
 <li>Screenreader automation. <a href="https://github.com/guidepup">Guidepup on Github</a></li>
 <li>Manual checks on desktop/mobile views.</li>
 </ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Automate Accessibility</title>
+      <link>https://example.org/_choices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/_choices/</guid>
+      <description>With a simple set of choices, we can run accessibility tests in our pipelines and generate useful feedback for your development design teams.&#xA;While manual checks are always recommended, you can achieve a high degree of prevention by introducing automation into your design and development cycles.&#xA;Web Windows/MacOS All content Content by template Sitemap or Urls list (Level AA only) Screenreader Automation (Level AA only) Voiceover (Level AA only) NVDA (Level AA only) Supply user guide Manual testing Voiceover (Level AA only) NVDA (Level AA only) Design &amp;amp; UX UX Testing + (Level AA only) Disabilities &amp;amp; UX (Level AA only) ** Manual screenreader checks (Level AA only) Voiceover (Level AA only) NVDA (Level AA only) Login Required?</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>With a simple set of choices, we can run accessibility tests in our pipelines and generate useful feedback for your development design teams.</p>
+</blockquote>
+<p>While manual checks are always recommended, you can achieve a high degree of prevention by introducing automation into your design and development cycles.</p>
+<h3 id="web">Web</h3>
+<ul>
+<li>Windows/MacOS
+<ul>
+<li>All content
+Content by template
+<ul>
+<li>Sitemap or Urls list
+(<em>Level AA only</em>)
+<ul>
+<li>Screenreader Automation
+(<em>Level AA only</em>)
+<ul>
+<li>Voiceover
+(<em>Level AA only</em>)</li>
+<li>NVDA
+(<em>Level AA only</em>)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Supply user guide
+<ul>
+<li>Manual testing
+<ul>
+<li>Voiceover
+(<em>Level AA only</em>)</li>
+<li>NVDA
+(<em>Level AA only</em>)</li>
+<li>Design &amp; UX</li>
+</ul>
+</li>
+<li>UX Testing +
+(<em>Level AA only</em>)
+<ul>
+<li>Disabilities &amp; UX
+(<em>Level AA only</em>) **</li>
+</ul>
+</li>
+<li>Manual screenreader checks
+(<em>Level AA only</em>)
+<ul>
+<li>Voiceover
+(<em>Level AA only</em>)</li>
+<li>NVDA
+(<em>Level AA only</em>)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Login Required?
+<ul>
+<li>Supply Login URL
+<ul>
+<li>Extract login script</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>DevOps
+<ul>
+<li>Run SonarQube
+(<em>Level AA only</em>)</li>
+<li>Sitemap or Urls list
+<ul>
+<li>Pa11y CI</li>
+<li>AxeScan</li>
+<li>Pa11y Dashboard</li>
+</ul>
+</li>
+<li>Build Server
+<ul>
+<li>SonarQube Plugin
+(<em>Level AA only</em>)</li>
+<li>a11y plugins</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="mobile-web">Mobile Web</h3>
+<ul>
+<li>Android/iOS
+<ul>
+<li>All content<br>
+Content by template
+<ul>
+<li>Sitemap or Urls list
+<ul>
+<li>Screenreader Automation
+(<em>Level AA only</em>)
+<ul>
+<li>Voiceover
+(<em>Level AA only</em>)</li>
+<li>NVDA
+(<em>Level AA only</em>)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Supply user guide
+<ul>
+<li>Manual testing
+<ul>
+<li>Voiceover
+(<em>Level AA only</em>)</li>
+<li>TalkBack
+(<em>Level AA only</em>)</li>
+<li>Design &amp; UX</li>
+</ul>
+</li>
+<li>UX Testing +
+(<em>Level AA only</em>)
+<ul>
+<li>Disabilities &amp; UX
+(<em>Level AA only</em>) **</li>
+</ul>
+</li>
+<li>Manual screenreader checks
+(<em>Level AA only</em>)
+<ul>
+<li>Voiceover
+(<em>Level AA only</em>)</li>
+<li>TalkBack
+(<em>Level AA only</em>)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Login Required?
+<ul>
+<li>Supply Login URL
+<ul>
+<li>Extract login script</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>DevOps
+<ul>
+<li>Run SonarQube
+(<em>Level AA only</em>)</li>
+<li>Sitemap or Urls list
+<ul>
+<li>Pa11y CI</li>
+<li>
+<h2 id="axescan">AxeScan</h2>
+</li>
+<li>Pa11y Dashboard</li>
+</ul>
+</li>
+<li>Build Server
+<ul>
+<li>SonarQube Plugin
+(<em>Level AA only</em>)</li>
+<li>a11y plugins</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="mobile-app">Mobile App</h3>
+<ul>
+<li>Android/iOS
+<ul>
+<li>All content<br>
+Content by template
+<ul>
+<li>Supply user guide
+<ul>
+<li>Manual testing
+<ul>
+<li>Voiceover
+(<em>Level AA only</em>)</li>
+<li>TalkBack
+(<em>Level AA only</em>)</li>
+<li>Design &amp; UX</li>
+</ul>
+</li>
+<li>UX Testing
+(<em>Level AA only</em>)
+<ul>
+<li>Disabilities &amp; UX
+(<em>Level AA only</em>) **</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Login Required?
+<ul>
+<li>Supply Login details</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>DevOps
+<ul>
+<li>Run SonarQube
+(<em>Level AA only</em>)</li>
+<li>Build Server
+<ul>
+<li>SonarQube Plugin
+(<em>Level AA only</em>)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Mobile tools check
+<ul>
+<li>Android</li>
+<li>iOS</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>** <em>Disabilities: Dyslexia, Age, Language, Culture, Education, Economic position, Tech aptitude, Cognitive, Physical Mobility, Auditory.</em></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1467,239 +1704,6 @@ $$</p>]]></content:encoded>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>.emoji {
 </span></span><span style="display:flex;"><span>  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
 </span></span><span style="display:flex;"><span>}</span></span></code></pre></div>]]></content:encoded>
-    </item>
-    <item>
-      <title></title>
-      <link>https://example.org/_choices/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/_choices/</guid>
-      <description>Web Windows/MacOS All content Content by template Sitemap or Urls list (Level AA only) Screenreader Automation (Level AA only) Voiceover (Level AA only) NVDA (Level AA only) Supply user guide Manual testing Voiceover (Level AA only) NVDA (Level AA only) Design &amp;amp; UX UX Testing + (Level AA only) Disabilities &amp;amp; UX (Level AA only) ** Manual screenreader checks (Level AA only) Voiceover (Level AA only) NVDA (Level AA only) Login Required?</description>
-      <content:encoded><![CDATA[<h3 id="web">Web</h3>
-<ul>
-<li>Windows/MacOS
-<ul>
-<li>All content
-Content by template
-<ul>
-<li>Sitemap or Urls list
-(<em>Level AA only</em>)
-<ul>
-<li>Screenreader Automation
-(<em>Level AA only</em>)
-<ul>
-<li>Voiceover
-(<em>Level AA only</em>)</li>
-<li>NVDA
-(<em>Level AA only</em>)</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Supply user guide
-<ul>
-<li>Manual testing
-<ul>
-<li>Voiceover
-(<em>Level AA only</em>)</li>
-<li>NVDA
-(<em>Level AA only</em>)</li>
-<li>Design &amp; UX</li>
-</ul>
-</li>
-<li>UX Testing +
-(<em>Level AA only</em>)
-<ul>
-<li>Disabilities &amp; UX
-(<em>Level AA only</em>) **</li>
-</ul>
-</li>
-<li>Manual screenreader checks
-(<em>Level AA only</em>)
-<ul>
-<li>Voiceover
-(<em>Level AA only</em>)</li>
-<li>NVDA
-(<em>Level AA only</em>)</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Login Required?
-<ul>
-<li>Supply Login URL
-<ul>
-<li>Extract login script</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>DevOps
-<ul>
-<li>Run SonarQube
-(<em>Level AA only</em>)</li>
-<li>Sitemap or Urls list
-<ul>
-<li>Pa11y CI</li>
-<li>AxeScan</li>
-<li>Pa11y Dashboard</li>
-</ul>
-</li>
-<li>Build Server
-<ul>
-<li>SonarQube Plugin
-(<em>Level AA only</em>)</li>
-<li>a11y plugins</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h3 id="mobile-web">Mobile Web</h3>
-<ul>
-<li>Android/iOS
-<ul>
-<li>All content<br>
-Content by template
-<ul>
-<li>Sitemap or Urls list
-<ul>
-<li>Screenreader Automation
-(<em>Level AA only</em>)
-<ul>
-<li>Voiceover
-(<em>Level AA only</em>)</li>
-<li>NVDA
-(<em>Level AA only</em>)</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Supply user guide
-<ul>
-<li>Manual testing
-<ul>
-<li>Voiceover
-(<em>Level AA only</em>)</li>
-<li>TalkBack
-(<em>Level AA only</em>)</li>
-<li>Design &amp; UX</li>
-</ul>
-</li>
-<li>UX Testing +
-(<em>Level AA only</em>)
-<ul>
-<li>Disabilities &amp; UX
-(<em>Level AA only</em>) **</li>
-</ul>
-</li>
-<li>Manual screenreader checks
-(<em>Level AA only</em>)
-<ul>
-<li>Voiceover
-(<em>Level AA only</em>)</li>
-<li>TalkBack
-(<em>Level AA only</em>)</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Login Required?
-<ul>
-<li>Supply Login URL
-<ul>
-<li>Extract login script</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>DevOps
-<ul>
-<li>Run SonarQube
-(<em>Level AA only</em>)</li>
-<li>Sitemap or Urls list
-<ul>
-<li>Pa11y CI</li>
-<li>
-<h2 id="axescan">AxeScan</h2>
-</li>
-<li>Pa11y Dashboard</li>
-</ul>
-</li>
-<li>Build Server
-<ul>
-<li>SonarQube Plugin
-(<em>Level AA only</em>)</li>
-<li>a11y plugins</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<h3 id="mobile-app">Mobile App</h3>
-<ul>
-<li>Android/iOS
-<ul>
-<li>All content<br>
-Content by template
-<ul>
-<li>Supply user guide
-<ul>
-<li>Manual testing
-<ul>
-<li>Voiceover
-(<em>Level AA only</em>)</li>
-<li>TalkBack
-(<em>Level AA only</em>)</li>
-<li>Design &amp; UX</li>
-</ul>
-</li>
-<li>UX Testing
-(<em>Level AA only</em>)
-<ul>
-<li>Disabilities &amp; UX
-(<em>Level AA only</em>) **</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Login Required?
-<ul>
-<li>Supply Login details</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>DevOps
-<ul>
-<li>Run SonarQube
-(<em>Level AA only</em>)</li>
-<li>Build Server
-<ul>
-<li>SonarQube Plugin
-(<em>Level AA only</em>)</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Mobile tools check
-<ul>
-<li>Android</li>
-<li>iOS</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p>** <em>Disabilities: Dyslexia, Age, Language, Culture, Education, Economic position, Tech aptitude, Cognitive, Physical Mobility, Auditory.</em></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>
