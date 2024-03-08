@@ -2,37 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/_about/</loc>
-  </url><url>
-    <loc>https://example.org/blog/_autism/</loc>
-  </url><url>
     <loc>https://example.org/_accessibilityautomation/</loc>
-  </url><url>
-    <loc>https://example.org/blog/_accessibilitystrategy/</loc>
   </url><url>
     <loc>https://example.org/_accessibilityaudit/</loc>
   </url><url>
     <loc>https://example.org/_accessibilitystatement/</loc>
   </url><url>
-    <loc>https://example.org/blog/_choices/</loc>
-  </url><url>
-    <loc>https://example.org/blog/_history/</loc>
-  </url><url>
     <loc>https://example.org/_qualityengineering/</loc>
   </url><url>
-    <loc>https://example.org/blog/_services/</loc>
-  </url><url>
-    <loc>https://example.org/blog/_teststrategy/</loc>
+    <loc>https://example.org/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/blog/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/blog/_thissite/</loc>
-  </url><url>
-    <loc>https://example.org/blog/_wcagprinciples/</loc>
   </url><url>
     <loc>https://example.org/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -81,5 +63,21 @@
   </url><url>
     <loc>https://example.org/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/blog/_accessibilitystrategy/</loc>
+  </url><url>
+    <loc>https://example.org/blog/_autism/</loc>
+  </url><url>
+    <loc>https://example.org/blog/_choices/</loc>
+  </url><url>
+    <loc>https://example.org/blog/_history/</loc>
+  </url><url>
+    <loc>https://example.org/blog/_services/</loc>
+  </url><url>
+    <loc>https://example.org/blog/_teststrategy/</loc>
+  </url><url>
+    <loc>https://example.org/blog/_thissite/</loc>
+  </url><url>
+    <loc>https://example.org/blog/_wcagprinciples/</loc>
   </url>
 </urlset>
