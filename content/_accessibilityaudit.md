@@ -62,5 +62,3 @@ This integration of accessibility practises into the development workflow gives 
 * ZoomDoc
 * Medialogix
 * IMS Maxims
-
-<!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->

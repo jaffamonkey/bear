@@ -18,6 +18,3 @@ weight: 1
 - Starting lean with test framework is logical, wait for test developmemnt to highlight possible requirement.
 - Native tools always preferred, firstly for synergy with development and secondly performance and scope larger.
 - Test frameworks should be part of app codebase.
-
-
-<!-- {{< button link="https://calendly.com/jaffamonkeyltd/intro-call" text="Book an intro meeting" >}} -->

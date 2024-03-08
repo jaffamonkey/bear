@@ -22,4 +22,4 @@ weight: 1
 - I can advise ways on working based on years of practical experience
 - I never ponder of how many ways a project could fail, only on ways to avoid those fails. -->
 
-![Client history](https://jaffamonkey.com/img/clients.png)
+[Book an intro meeting](https://calendly.com/jaffamonkeyltd/intro-call)
