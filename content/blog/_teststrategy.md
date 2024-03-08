@@ -1,8 +1,3 @@
----
-title: Test Strategy
-menu: "main"
-weight: 1
----
 Development strategies to help you implement new tools and approaches across teams.
 Building test frameworks for functional and non-functional testing within your CI/CD pipelines. 
 

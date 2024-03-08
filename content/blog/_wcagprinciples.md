@@ -1,9 +1,3 @@
----
-title: WCAG 4 Principles
-menu: "main"
-weight: 2
----
-
 In order for your web or mobile app to be accessible, the audience needs to be factored into the design and development. 
 
 - people with sight loss, low vision or who use a screen reader

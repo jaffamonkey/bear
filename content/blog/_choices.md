@@ -1,9 +1,3 @@
----
-title: Automate Accessibility
-menu: "main"
-weight: 1
----
-
 > With a simple set of choices, we can run accessibility tests in our pipelines and generate useful feedback for your development design teams.
 
 While manual checks are always recommended, you can achieve a high degree of prevention by introducing automation into your design and development cycles.

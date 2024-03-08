@@ -1,8 +1,3 @@
----
-title: Career history
-menu: "main"
-weight: 1
----
 ![Client history](https://jaffamonkey.com/img/clients.png)
 
 [Download Word Version](https://jaffamonkey.com/img/paul-littlebury-cv.docx)

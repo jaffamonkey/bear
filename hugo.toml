@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'quality engineering in the pipeline'
-theme = "hugo-bearcub"
+theme = "hugo-bearblog"

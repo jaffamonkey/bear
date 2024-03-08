@@ -1,9 +1,3 @@
----
-title: Accessbility Strategy
-menu: "main"
-weight: 1
----
-
 Understanding why accessibility makes you a better and smarter organisation is the first step in any long-term strategy.
 
 > What are advantage of integrating Accessibility into your design and development practices.
