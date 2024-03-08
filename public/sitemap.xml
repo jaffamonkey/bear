@@ -7,30 +7,32 @@
   </url><url>
     <loc>https://example.org/_about/</loc>
   </url><url>
-    <loc>https://example.org/_autism/</loc>
+    <loc>https://example.org/blog/_autism/</loc>
   </url><url>
-    <loc>https://example.org/_accessibilitystrategy/</loc>
+    <loc>https://example.org/_accessibilityautomation/</loc>
+  </url><url>
+    <loc>https://example.org/blog/_accessibilitystrategy/</loc>
   </url><url>
     <loc>https://example.org/_accessibilityaudit/</loc>
   </url><url>
     <loc>https://example.org/_accessibilitystatement/</loc>
   </url><url>
-    <loc>https://example.org/_choices/</loc>
+    <loc>https://example.org/blog/_choices/</loc>
   </url><url>
-    <loc>https://example.org/_history/</loc>
+    <loc>https://example.org/blog/_history/</loc>
   </url><url>
     <loc>https://example.org/_qualityengineering/</loc>
   </url><url>
-    <loc>https://example.org/_services/</loc>
+    <loc>https://example.org/blog/_services/</loc>
   </url><url>
-    <loc>https://example.org/_teststrategy/</loc>
+    <loc>https://example.org/blog/_teststrategy/</loc>
   </url><url>
     <loc>https://example.org/blog/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/_thissite/</loc>
+    <loc>https://example.org/blog/_thissite/</loc>
   </url><url>
-    <loc>https://example.org/_wcagprinciples/</loc>
+    <loc>https://example.org/blog/_wcagprinciples/</loc>
   </url><url>
     <loc>https://example.org/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
