@@ -1,0 +1,27 @@
+[submodule "themes/congo"]
+	path = themes/congo
+	url = https://github.com/jpanther/congo
+[submodule "themes/hugo-bearblog"]
+	path = themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog
+[submodule "themes/hugoplate"]
+	path = themes/hugoplate
+	url = https://github.com/zeon-studio/hugoplate
+[submodule "themes/hextra"]
+	path = themes/hextra
+	url = https://github.com/imfing/hextra
+[submodule "themes/perplex"]
+	path = themes/perplex
+	url = https://github.com/bowman2001/perplex
+[submodule "themes/hugo-geekdoc"]
+	path = themes/hugo-geekdoc
+	url = https://github.com/thegeeklab/hugo-geekdoc
+[submodule "themes/hugo-theme-bootstrap"]
+	path = themes/hugo-theme-bootstrap
+	url = https://github.com/razonyang/hugo-theme-bootstrap
+[submodule "themes/compose"]
+	path = themes/compose
+	url = https://github.com/onweru/compose
+[submodule "themes/hugo-digital-garden-theme"]
+	path = themes/hugo-digital-garden-theme
+	url = https://github.com/paulmartins/hugo-digital-garden-theme
